@@ -1,7 +1,9 @@
 body {
-    background-color:green;
+    background-image: url(background.jpg);
+
     font-family: cursive;
 }
+
 
 
 .pizza {
@@ -12,8 +14,8 @@ body {
     border-radius: 1em;
 }
 
-.medium_Pizza {
-    background-color:orange;
+.Medium_Pizza {
+    background-color:green;
   
 }
 
@@ -22,7 +24,7 @@ body {
    
 }
 
-.small_Pizza {
+.Small_Pizza {
     background-color:yellow;
     
 }
@@ -50,4 +52,22 @@ body {
     .pizzas {
         display: flex;
     }
+}
+.Perfect{
+    background-color: antiquewhite;
+    border: 5px solid #4A6C6F;
+    padding: 1em;
+    margin: 1rem;
+    margin-bottom: 0.5em;
+    border-radius: 1em;
+
+}
+.Perfect Pizza{ackground-color: antiquewhite;
+    border: 5px solid #4A6C6F;
+    padding: 1em;
+    margin: 1rem;
+    margin-bottom: 0.5em;
+    border-radius: 1em;
+
+
 }
